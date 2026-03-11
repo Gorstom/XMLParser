@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Matches>
+    <Match Date="2023-05-01">
+        <TeamA>FC Barcelona</TeamA>
+        <TeamB>Real Madrid</TeamB>
+        <ScoreA>3</ScoreA>
+        <ScoreB>2</ScoreB>
+    </Match>
+    <Match Date="2023-05-02">
+        <TeamA>Bayern Monachium</TeamA>
+        <TeamB>Borussia Dortmund</TeamB>
+        <ScoreA>4</ScoreA>
+        <ScoreB>1</ScoreB>
+    </Match>
+    <Match Date="2023-05-03">
+        <TeamA>Liverpool</TeamA>
+        <TeamB>Manchester United</TeamB>
+        <ScoreA>0</ScoreA>
+        <ScoreB>0</ScoreB>
+    </Match>
+</Matches>
